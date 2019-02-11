@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Nathan Martindale'
 SITENAME = 'TTU Data Science League'
-SITEURL = ''
+SITEURL = 'http://ttu-dsl.com'
 
 PATH = 'content'
 
@@ -22,6 +22,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
+# TODO: change this to social instead
 LINKS = (('Discord', 'https://discord.gg/h8afcRXI'),
          ('Facebook', 'https://www.facebook.com/groups/DataScienceLeague'),)
 

@@ -68,6 +68,11 @@ header h1
 	margin-bottom: 90px;
 }
 
+#content p
+{
+	padding: 20px;
+}
+
 #container
 {
 	min-width: 1000px;

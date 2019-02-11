@@ -3,7 +3,7 @@
 	<head>
 		{% block head %}
 		<title>{% block title %}{{ SITENAME }}{% endblock title %}</title>
-		<link href="theme/css/style.css" type="text/css" rel='stylesheet' />
+		<link href="{{ SITEURL }}/theme/css/style.css" type="text/css" rel='stylesheet' />
 		<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet"> 
 		<meta charset="utf-8" />
 		{% if FEED_ALL_ATOM %}
@@ -40,7 +40,7 @@
 					<h1>Tennessee Tech</h1>
 				</div>
 				<div class='column-align'>
-					<img src='theme/images/DSLHeader_404x200.png' id='logo' />
+					<a href='index.html'><img src='{{ SITEURL }}/theme/images/DSLHeader_404x200.png' id='logo' /></a>
 				</div>
 				<div class='column-align'>
 					<h1>Data Science League</h1>
