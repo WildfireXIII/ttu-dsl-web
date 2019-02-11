@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = 'Nathan Martindale'
 SITENAME = 'TTU Data Science League'
-SITEURL = '192.168.13.3:8000'
+SITEURL = ''
 
 PATH = 'content'
 
@@ -22,10 +22,9 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Discord', 'https://discord.gg/h8afcRXI'),
+         ('Facebook', 'https://www.facebook.com/groups/DataScienceLeague'),)
+
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
