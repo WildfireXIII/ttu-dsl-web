@@ -4,6 +4,11 @@ body
 	font-family: 'Open Sans', sans-serif,  arial;
 }
 
+a
+{
+	color: #4f2984;
+}
+
 #banner
 {
 	background-color: #EEEEEE;
@@ -70,7 +75,9 @@ header h1
 
 #content p
 {
-	padding: 20px;
+	padding: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 #container
@@ -101,4 +108,34 @@ hr
 	color: #888888;
 	font-size: 12px;
 	border-top: 1px solid #555555;
+}
+
+.notify
+{
+	border-radius: 10px;
+	background-color: #bca0e2;
+	background-color: #c7b0e7;
+	background-color: #d4c2ed;
+	border: 1px solid #4f2984;
+	margin: 20px;
+}
+
+#post-list
+{
+	list-style: none;
+}
+
+.entry-title a
+{
+	text-decoration: none;
+}
+
+.entry-title
+{
+	color: #000000;
+}
+
+.faded-date
+{
+	color: #999999;
 }

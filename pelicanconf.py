@@ -21,6 +21,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+#NOTIFY = "Meeting today! - Bruner 207 - 11-12"
+NOTIFY = ""
+
 # Blogroll
 # TODO: change this to social instead
 LINKS = (('Discord', 'https://discord.gg/h8afcRXI'),
