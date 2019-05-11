@@ -36,3 +36,21 @@ blocks along with nicely formattable markdown, latex, and even widgets for
 interacting with your code. This makes for a very good environment for either
 exploring or experimenting on the fly with data and algorithms, as well as
 cleanly documenting a tutorial or algorithm for demonstration purposes.
+
+
+Forums
+######
+
+https://www.reddit.com/r/MLQuestions/
+
+A subreddit for asking questions about machine learning.
+
+https://www.reddit.com/r/MachineLearning
+
+A more general subreddit for all things concerning machine learning.
+
+
+Miscellaneous
+#############
+
+https://machinelearningmastery.com/
